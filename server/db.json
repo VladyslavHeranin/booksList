@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "The Grass is Always Greener",
+      "author": "Jeffrey Archer",
+      "category": "Modern Times",
+      "ISBN": "1860920497",
+      "id": 2
+    },
+    {
+      "name": "Murder",
+      "author": "Arnold Bennett",
+      "category": "Crime",
+      "ISBN": "1860920128",
+      "id": 3
+    },
+    {
+      "name": "An Occurrence at Owl Creek Bridge One of the Missing",
+      "author": "Ambrose Bierce",
+      "category": "Adventure",
+      "ISBN": "1860920061",
+      "id": 4
+    },
+    {
+      "name": "The Five Orange Pips",
+      "author": "Arthur Conan Doyle",
+      "category": "Crime",
+      "ISBN": "1860920314",
+      "id": 5
+    },
+    {
+      "name": "The Hostage",
+      "author": "C. S. Forester (1899-1966)",
+      "category": " Adventure",
+      "ISBN": "186092014501",
+      "id": 6
+    }
+  ]
+}
